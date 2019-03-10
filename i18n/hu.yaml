@@ -78,7 +78,7 @@
 - id: inUnderAMinute
   translation: "kevesebb mint egy perc alatt." # continuing the last string
 - id: resolvedAfter
-  translation: # + 19 min
+  translation: "" # + 19 min
 - id: ofDowntime
   translation: "Múlva javítottuk"
 

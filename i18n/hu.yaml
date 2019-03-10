@@ -108,7 +108,7 @@
 - id: backToTop
   translation: "Vissza az oldal tetejére"
 - id: poweredBy
-  translation: ""
+  translation: "Státusz oldal szoftver: "
 
 - id: notFound
   translation: "Ez az oldal üres :("

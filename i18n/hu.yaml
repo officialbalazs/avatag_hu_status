@@ -52,17 +52,17 @@
 # Number goes before string
 # Use short variants until months
 - id: yearsAgo
-  translation: "éve"
+  translation: " éve"
 - id: monthsAgo
-  translation: "hónapja"
+  translation: " hónapja"
 - id: daysAgo
-  translation: "napja"
+  translation: " napja"
 - id: hoursAgo
-  translation: "órája"
+  translation: " órája"
 - id: minsAgo
-  translation: "perce"
+  translation: " perce"
 - id: secondsAgo
-  translation: "másodperce"
+  translation: " másodperce"
 
 - id: autoRefreshNotice
   translation: "Öt percenként próbáljuk meg csekkolni szervereinket."

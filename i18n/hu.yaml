@@ -14,115 +14,115 @@
 
 # Summary status message
 - id: isDown
-  translation: Szervereink komoly hibákkal küzdenek
+  translation: "Szervereink komoly hibákkal küzdenek"
 - id: isDisrupted
-  translation: Szervereink az átlagosnál lassabbak
+  translation: "Szervereink az átlagosnál lassabbak"
 - id: isNotice
-  translation: Közleményünk
+  translation: "Közleményünk"
 - id: isOk
-  translation: Szervereink futnak
+  translation: "Szervereink futnak"
 
 # No JS warning
 - id: noScriptingIntro
-  translation: O-o. Úgy tűnik kikapcsolat a JavaScriptet a böngésződben. Kérlek
+  translation: "O-o. Úgy tűnik kikapcsolat a JavaScriptet a böngésződben. Kérlek"
 - id: noScriptingLink
-  translation: kapcsold be
+  translation: "kapcsold be"
 - id: noScriptingOutro
-  translation: hogy optimálisan működjön oldalunk.
+  translation: "hogy optimálisan működjön oldalunk."
 
 - id: thisIsDown
-  translation: Nem fut
+  translation: "Nem fut"
 - id: thisIsDisrupted
-  translation: Átlagosnál lassabb
+  translation: "Átlagosnál lassabb"
 - id: thisIsNotice
-  translation: Karbantarás folyamatban
+  translation: "Karbantarás folyamatban"
 - id: thisIsOk
-  translation: Fut
+  translation: "Fut"
 
 # "Last checked" + "just now"
 - id: lastChecked
-  translation: Legutoljára
+  translation: "Legutoljára"
 - id: justNow
-  translation: most csekkoltuk szervereinket.
+  translation: "most csekkoltuk szervereinket."
 - id: someTimeAgo
-  translation: csekkoltuk szervereinket.
+  translation: "csekkoltuk szervereinket."
 
 # Example usage: `5` + `years`
 # Final result: 'Last checked 5 years ago'
 # Number goes before string
 # Use short variants until months
 - id: yearsAgo
-  translation: éve
+  translation: "éve"
 - id: monthsAgo
-  translation: hónapja
+  translation: "hónapja"
 - id: daysAgo
-  translation: napja
+  translation: "napja"
 - id: hoursAgo
-  translation: órája
+  translation: "órája"
 - id: minsAgo
-  translation: perce
+  translation: "perce"
 - id: secondsAgo
-  translation: másodperce
+  translation: "másodperce"
 
 - id: autoRefreshNotice
-  translation: Öt percenként próbáljuk meg csekkolni szervereinket.
+  translation: "Öt percenként próbáljuk meg csekkolni szervereinket."
 
 # Incidents
 - id: incidents
-  translation: Incidensek
+  translation: "Incidensek"
 - id: incidentHistory
-  translation: Múlbéli incidenseink
+  translation: "Múlbéli incidenseink"
 
 - id: resolved
-  translation: Javítva # if it's less than a min
+  translation: "Javítva" # if it's less than a min
 - id: inUnderAMinute
-  translation: kevesebb mint egy perc alatt. # continuing the last string
+  translation: "kevesebb mint egy perc alatt." # continuing the last string
 - id: resolvedAfter
   translation: # + 19 min
 - id: ofDowntime
-  translation: Múlva javítottuk
+  translation: "Múlva javítottuk"
 
 - id: downtimeOngoing
-  translation: Még nem javítottuk!
+  translation: "Még nem javítottuk!"
 
 
 - id: calmBeforeTheStorm
-  translation: Is it the calm before the storm?
+  translation: "Is it the calm before the storm?"
 - id: noIncidentsDesc
-  translation: This status page has no logged incidents. This may be because the status page owner (or owners) have recently set up their status page, have had no downtime, or have not logged any downtime.
+  translation: "This status page has no logged incidents. This may be because the status page owner (or owners) have recently set up their status page, have had no downtime, or have not logged any downtime."
 
 
 - id: continueReading
-  translation: Tovább
+  translation: "Tovább"
 - id: prev
-  translation: Előző
+  translation: "Előző"
 - id: next
-  translation: Következő
+  translation: "Következő"
 
 ##
 ## OTHER
 ##
 
 - id: goBack
-  translation: Go back to
+  translation: "Vissza"
 - id: backToTop
-  translation: Vissza az oldal tetejére
+  translation: "Vissza az oldal tetejére"
 - id: poweredBy
   translation:
 
 - id: notFound
-  translation: Ez az oldal üres :(
+  translation: "Ez az oldal üres :("
 - id: notFoundText
-  translation: Nem találtuk az általad keresett oldalt.
+  translation: "Nem találtuk az általad keresett oldalt."
 
 - id: rss
-  translation: RSS-en keresztül iratkozz fel
+  translation: "RSS-en keresztül iratkozz fel"
 - id: toAllUpdates
-  translation: minden hírre.
+  translation: "minden hírre."
 - id: or
   translation: or
 - id: onlyThisFeed
-  translation: only this feed
+  translation: "only this feed"
 
 ##
 ## v3

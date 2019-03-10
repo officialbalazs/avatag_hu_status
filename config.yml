@@ -149,15 +149,6 @@ params:
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
   description: "Folyamatosan figyeljük szervereink elérhetőségét, és itt tudatjuk ügyfeleinkkel ha bármi probléma van."
 
-  # Tabs on homepage
-  # Uncomment to enable.
-  #
-  # Format:
-   customTabs:
-    -
-      name: Főoldal
-      link: https://avatag.hu
-
   # Auto refresh the page
   # every ~5 min
   #
